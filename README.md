@@ -35,5 +35,7 @@ all - 打开http和https
 2. 设置“NET_NAME”是您的网络名称。
 3. 按'alt + space', 使用关键字'proxy'后选择结果
 
-![](https://github.com/a379261723/Alfred-Workflow-Extension/blob/master/Alfred-Workflow-Switch-Proxy/img1.png)
-![](https://github.com/a379261723/Alfred-Workflow-Extension/blob/master/Alfred-Workflow-Switch-Proxy/img2.png)
+![](https://github.com/a379261723/Alfred-Workflow-Extension/blob/master/Alfred-Workflow-Switch-Proxy/img1.jpg)
+![](https://github.com/a379261723/Alfred-Workflow-Extension/blob/master/Alfred-Workflow-Switch-Proxy/img2.jpg)
+
+PS：原理参考https://henter.me/post/mac-proxy-setting-command.html
